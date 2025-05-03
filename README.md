@@ -8,6 +8,7 @@ AmazonDynamoDBFullAccess
 
 
 Create a Lambda Function 
+
 Name: My-lambda
 Runtime: Python
 Arch: x86_64
